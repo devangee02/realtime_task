@@ -1,0 +1,12 @@
+final String AppName = 'realtimetask';
+const image = 'assets/images/homebackground.png';
+const bedrooms = '3 bed bungalow';
+const leaseType = 'For sale';
+const location = 'Lagos Island, Lagos';
+const currency = 'assets/images/naira.png';
+const amount = '18,000,000';
+const bathIcon = 'assets/images/icon_bath.png';
+const bedIcon = 'assets/images/icon_bed.png';
+const noOfBeds = '3 bedrooms';
+const noOfBathrooms = '2 bathrooms';
+const typeOfList = 'New';
